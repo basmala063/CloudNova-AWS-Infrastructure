@@ -55,8 +55,7 @@ Application servers communicate with Amazon RDS for database operations. Amazon 
 
 CloudWatch monitors resource metrics, and SNS sends notifications to the configured email address.
 
-> An architecture diagram and AWS console screenshots will be added to this repository.
-
+AWS console screenshots documenting the implemented infrastructure and test results are available in the Project Screenshots section below. An architecture diagram remains a future improvement.
 ## AWS Services
 
 | AWS Service | Purpose |
@@ -228,3 +227,28 @@ CloudNova demonstrates how AWS networking, compute, database, storage, monitorin
 The project includes private networking, load balancing, managed database connectivity, shared storage, S3 backups, CloudWatch alarms, SNS notifications, and tested Auto Scaling behavior.
 
 The documented test results distinguish verified behavior from features that still require additional validation.
+## Project Screenshots
+
+The following screenshots provide visual evidence of the AWS configuration and validation activities.
+
+### 1. VPC Network Overview
+![VPC Overview](screenshots/vpc-overview.png)
+
+### 2. Application Load Balancer Target Group
+![Healthy Target Group](screenshots/target-group-healthy.png)
+
+### 3. Amazon RDS Database
+![RDS Database](screenshots/rds-database.png)
+
+### 4. Amazon EFS Shared Storage
+![EFS Shared Storage](screenshots/efs-shared-storage.png)
+
+### 5. Amazon S3 Database Backup
+![S3 Database Backup](screenshots/s3-database-backup.png)
+
+### 6. CloudWatch Monitoring Alarms
+![CloudWatch Alarms](screenshots/cloudwatch-alarms.png)
+
+### 7. Auto Scaling Activity History
+![Auto Scaling Activity](screenshots/autoscaling-activity.png)
+
