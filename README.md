@@ -232,10 +232,10 @@ The documented test results distinguish verified behavior from features that sti
 The following screenshots provide visual evidence of the AWS configuration and validation activities.
 
 ### 1. VPC Network Overview
-![VPC Overview](screenshots/vpc-overview.png)
+![VPC Overview](screenshots/vpc.png)
 
 ### 2. Application Load Balancer Target Group
-![Healthy Target Group](screenshots/target-group-healthy.png)
+![Healthy Target Group](screenshots/screenshots/target-group-healthy.png.png)
 
 ### 3. Amazon RDS Database
 ![RDS Database](screenshots/rds-database.png)
