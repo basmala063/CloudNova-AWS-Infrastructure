@@ -235,10 +235,10 @@ The following screenshots provide visual evidence of the AWS configuration and v
 ![VPC Overview](screenshots/vpc.png)
 
 ### 2. Application Load Balancer Target Group
-![Healthy Target Group](screenshots/screenshots/target-group-healthy.png.png)
+![Healthy Target Group](screenshots/target-group-healthy.png.png)
 
 ### 3. Amazon RDS Database
-![RDS Database](screenshots/screenshots/target-group-healthy.png.png)
+![RDS Database](screenshots/target-group-healthy.png.png)
 
 ### 4. Amazon EFS Shared Storage
 ![EFS Shared Storage](screenshots/efs-shared-storage.png)
