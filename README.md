@@ -238,7 +238,7 @@ The following screenshots provide visual evidence of the AWS configuration and v
 ![Healthy Target Group](screenshots/target-group-healthy.png.png)
 
 ### 3. Amazon RDS Database
-![RDS Database](screenshots/target-group-healthy.png.png)
+![RDS Database](screenshots/rds-database-s.png)
 
 ### 4. Amazon EFS Shared Storage
 ![EFS Shared Storage](screenshots/efs-shared-storage.png)
